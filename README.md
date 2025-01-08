@@ -1,7 +1,7 @@
 - Hi, I’m @wereinwild
 - I’m interested in atmospheric chemistry, climate change, air pollution, and the health impacts of air pollution.
 - I’m researching statistical methods to identify sources of air pollution.
-- I aim to help the air pollution and earth sciences community by publishing `Python` programs to ease the interface with commonly used APIs.
+- I aim to help the air pollution and Earth sciences community by publishing `Python` programs to ease the interface with commonly used APIs.
 - The website of my institute is: [weizmann.ac.il](https://weizmann.ac.il/)
 
 
